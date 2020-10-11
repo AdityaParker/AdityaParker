@@ -1,11 +1,11 @@
 <h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQGlUhhTatvzwQ/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=N-5sV7NVpqBHlLOJo1wC27_Rnt2a6jXnvCHmSgkWjVs" width="230">
+<img align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQGlUhhTatvzwQ/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=N-5sV7NVpqBHlLOJo1wC27_Rnt2a6jXnvCHmSgkWjVs" width="230" border-radius="50%>
 <p><em>Full Stack Developer and Videographer  
 </em></p>
 
 [![Twitter: aditya](https://img.shields.io/twitter/follow/chaoticbloke?style=social)](https://twitter.com/chaoticbloke)
 [![Linkedin: aditya](https://img.shields.io/badge/-adityaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaparker/)](https://www.linkedin.com/in/adityaparker/)
-[![Instagram: aditya](https://img.shields.io/instagram/follow/chaoticbloke?style=social)](https://instagram.com/chaoticbloke)
+[![Instagram: aditya](https://img.shields.io/instagram/follow/chaoticbloke?style=social)](https://instagram.com/chaoticbloke/)
 
 
 <h1> A little more about me...  </h1>
@@ -27,7 +27,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
