@@ -1,4 +1,4 @@
-<h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpet-gifs&psig=AOvVaw04nR1hMd7RsXOYgun0hXUu&ust=1602480873149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCG38zoq-wCFQAAAAAdAAAAABAD" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
