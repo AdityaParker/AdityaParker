@@ -1,14 +1,14 @@
 <h2> Hi Visitor, I'm Aditya Gautam!</h2>
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 <p><em>Full Stack Developer and Videographer  
-</em></p>
+</em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
 
 [![Twitter: aditya](https://img.shields.io/twitter/follow/chaoticbloke?style=social)](https://twitter.com/chaoticbloke)
 [![Linkedin: adityaparker](https://img.shields.io/badge/-adityaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaparker/)](https://www.linkedin.com/in/adityaparker/)
 
 <h3> A little more about me...  </h3>
 
-<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp;Tech Stack</h3>
+<h2>  &nbsp;Tech Stack</h2>
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
