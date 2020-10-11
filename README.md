@@ -1,13 +1,13 @@
 <h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="" width="30"> 
+<p><em>Full Stack Developer and Videographer  
 </em></p>
 
 [![Twitter: aditya](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: aditya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub aditya](https://img.shields.io/github/followers/AdityaParker?label=follow&style=social)](https://github.com/AdityaParker)
 
- A little more about me...  
+<h1> A little more about me...  </h1>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -48,4 +48,4 @@
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@aditya](https://github.com/AdityaParker)
