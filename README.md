@@ -9,10 +9,6 @@
 <h1> A little more about me...  </h1>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
- - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
