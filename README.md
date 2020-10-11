@@ -3,9 +3,9 @@
 <p><em>Full Stack Developer and Videographer  
 </em></p>
 
-[![Twitter: aditya](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: aditya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub aditya](https://img.shields.io/github/followers/AdityaParker?label=follow&style=social)](https://github.com/AdityaParker)
+[![Twitter: aditya](https://img.shields.io/twitter/follow/chaoticbloke?style=social)](https://twitter.com/chaoticbloke)
+[![Linkedin: aditya](https://img.shields.io/badge/-adityaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaparker/)](https://www.linkedin.com/in/adityaparker/)
+[![Instagram: aditya](https://img.shields.io/instagram/followers/chaoticbloke?label=follow&style=social)](https://instagram.com/chaoticbloke)
 
 <h1> A little more about me...  </h1>
 
