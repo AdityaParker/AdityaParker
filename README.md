@@ -8,7 +8,7 @@
 [![GitHub aditya](https://img.shields.io/github/followers/AdityaParker?label=follow&style=social)](https://github.com/AdityaParker)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media-exp1.licdn.com/dms/image/C5603AQGlUhhTatvzwQ/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=N-5sV7NVpqBHlLOJo1wC27_Rnt2a6jXnvCHmSgkWjVs" width="50"> A little more about me...  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -29,8 +29,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![GIMP](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=adobe-Gimp)
