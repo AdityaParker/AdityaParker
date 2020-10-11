@@ -11,17 +11,13 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const aditya = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java,C++],
+  tools: [React, Redux, Node, Angular,Spring boot],
+  architecture: ["microservices","design system pattern"],
+ 
+ challenge: "I am currently learning Spring boot focused on Angular and typescript"
 }
 ```
 
