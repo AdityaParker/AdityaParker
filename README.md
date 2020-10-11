@@ -1,4 +1,4 @@
-<h2> Heyy Visitor, I'm Aditya!</h2>
+<h2> Hey Visitor, I'm Aditya!</h2>
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="450">
 <p><em>Full Stack Developer and Videographer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
