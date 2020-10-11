@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-  ![Spring boot](https://img.shields.io/badge/-Spring-333333?style=flat&logo=Spring&logoColor=007396)
+  ![Spring boot](https://img.shields.io/badge/-Spring-boot-333333?style=flat&logo=Spring-boot&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
