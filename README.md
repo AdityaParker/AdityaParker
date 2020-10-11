@@ -1,4 +1,4 @@
-<h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2> Hi Visitor, I'm Aditya Gautam!</h2>
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 <p><em>Full Stack Developer and Videographer  
 </em></p>
@@ -8,7 +8,7 @@
 
 <h3> A little more about me...  </h3>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
