@@ -1,5 +1,5 @@
 <h2> Hi Visitor, I'm Aditya Gautam!</h2>
-<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400">
 <p><em>Full Stack Developer and Videographer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
 
