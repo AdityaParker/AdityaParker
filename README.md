@@ -1,4 +1,4 @@
-<h2> Hi Visitor, I'm Aditya Gautam!</h2>
+<h2> Hi Visitor, I'm Aditya!</h2>
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500">
 <p><em>Full Stack Developer and Videographer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
@@ -7,6 +7,7 @@
 [![Linkedin: adityaparker](https://img.shields.io/badge/-adityaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaparker/)](https://www.linkedin.com/in/adityaparker/)
 
 <h3> A little more about me...  </h3>
+<p>I am a CSE graduate from NIT Allahabad,India and passionate about web,chess and film making.</p>
 
 <h2>  &nbsp;My Tech Stack</h2>
 
