@@ -1,5 +1,5 @@
 <h2> Hi, I'm <mark>Aditya Gautam</mark>! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://images.unsplash.com/photo-1581362662614-dd27d9eb9291?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80" width="230" height="330">
+<img align='right' src="https://images.unsplash.com/photo-1581362662614-dd27d9eb9291?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80" width="230" height="330" border-radius="50">
 <p><em>Full Stack Developer and Videographer  
 </em></p>
 
