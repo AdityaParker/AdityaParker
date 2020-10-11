@@ -6,7 +6,7 @@
 [![Twitter: aditya](https://img.shields.io/twitter/follow/chaoticbloke?style=social)](https://twitter.com/chaoticbloke)
 [![Linkedin: adityaparker](https://img.shields.io/badge/-adityaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaparker/)](https://www.linkedin.com/in/adityaparker/)
 
-<h1> A little more about me...  </h1>
+<h3> A little more about me...  </h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
