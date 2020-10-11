@@ -31,7 +31,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![GIMP](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=adobe-Gimp)
+  ![GIMP](https://img.shields.io/badge/-Gimp-333333?style=flat&logo=Gimp-Gimp)
+  ![Kdenlive](https://img.shields.io/badge/-Kdenlive-333333?style=flat&logo=Kdenlive-Kdenlive)
  
 
 <br/>
