@@ -7,8 +7,7 @@
 [![Linkedin: aditya](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub aditya](https://img.shields.io/github/followers/AdityaParker?label=follow&style=social)](https://github.com/AdityaParker)
 
-
-### <img src="https://media-exp1.licdn.com/dms/image/C5603AQGlUhhTatvzwQ/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=N-5sV7NVpqBHlLOJo1wC27_Rnt2a6jXnvCHmSgkWjVs" width="50"> A little more about me...  
+ A little more about me...  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
